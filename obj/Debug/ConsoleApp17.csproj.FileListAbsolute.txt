@@ -1,0 +1,7 @@
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\AL NAQIB\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
